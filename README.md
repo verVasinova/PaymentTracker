@@ -1,4 +1,6 @@
 # PaymentTracker
+Test project for job application
+
 ##### Sample input
 ```
 USD 1000
