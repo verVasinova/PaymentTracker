@@ -1,6 +1,12 @@
 # PaymentTracker
 Test project for job application
 
+##### Running application
+in folder /out
+```
+java -jar paymentTracker.jar
+```
+
 ##### Sample input
 ```
 USD 1000
